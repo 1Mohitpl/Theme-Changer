@@ -20,7 +20,7 @@ I'm a full stack developer...
 Javascript, HTML, CSS
 
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
+
 
