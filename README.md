@@ -8,7 +8,7 @@
 
 ## Demo
 
-Insert gif or link to demo
+https://1mohitpl.github.io/Theme-Changer/
 
 
 ## 🚀 About Me
